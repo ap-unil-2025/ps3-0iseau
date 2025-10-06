@@ -1,0 +1,6 @@
+9331c8e Personnalized hello message
+548de7e Initial commit: Add README
+ecb5d8c Accurately added name and date
+daf5d6d Initial commit: Add name and date to README
+7bcb689 Add GitHub Classroom autograding configuration
+2dc2daa Initial commit
